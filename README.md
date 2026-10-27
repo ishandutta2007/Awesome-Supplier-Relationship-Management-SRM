@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM?style=flat-square&color=red" alt="GitHub Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supplier-Relationship-Management-SRM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License: MIT"/></a>
@@ -77,9 +77,9 @@ The table below catalogs premier commercial SaaS solutions for Supplier Relation
 
 Open-source tooling in Supplier Relationship Management has accelerated rapidly, evolving from standalone procurement scripts to autonomous AI agents and Model Context Protocol (MCP) servers.
 
-The repositories below are ranked in **descending order by GitHub star count**. Each badge dynamically reflects real-time community adoption and links directly to the project's stargazers.
+The repositories below are ranked in **descending order by GitHub Stars_Count**. Each badge dynamically reflects real-time community adoption and links directly to the project's stargazers.
 
-| # | 📦 Repository & Project | ⭐ Stars Badge | 🛠️ Tech Stack | 💡 Focus & Architectural Description |
+| # | 📦 Repository & Project | ⭐ Stars_Badge | 🛠️ Tech Stack | 💡 Focus & Architectural Description |
 | :-: | :--- | :---: | :---: | :--- |
 | **1** | **[BidMaster Pro](https://github.com/guangshu100/BidMaster-Pro)** | [![Stars](https://img.shields.io/github/stars/guangshu100/BidMaster-Pro?style=social&color=white)](https://github.com/guangshu100/BidMaster-Pro/stargazers) | Python, RAG, OCR, LLM Agents | **Intelligent Bidding & Procurement Agent:** End-to-end automated RFP/tender lifecycle, commercial bid generation, 21-point compliance inspection, RAG knowledge retrieval, and OCR extraction. |
 | **2** | **[ForgeFlow](https://github.com/JayleeBot/ForgeFlow)** | [![Stars](https://img.shields.io/github/stars/JayleeBot/ForgeFlow?style=social&color=white)](https://github.com/JayleeBot/ForgeFlow/stargazers) | Python, FastAPI, AI Agents | **Automated Quote Intake Agent:** AI-powered email agent for intake, parsing unstructured supplier email bids, structured price/delivery comparison, and quotation management. |
@@ -128,7 +128,7 @@ Contributions to expand and refine this ecosystem directory are warmly welcomed!
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-srm-platform`
 3. 📝 **Add or update an entry** in `README.md`:
    - For SaaS platforms: include company scale (valuation/revenue), specific entry price tier, specific free trial limits, and core capabilities.
-   - For open-source tools: include the repository link, white social star badge (`style=social&color=white`) linking to `/stargazers`, tech stack, and architectural description.
+   - For open-source tools: include the repository link, white social Stars_Badge (`style=social&color=white`) linking to `/stargazers`, tech stack, and architectural description.
 4. ✅ **Ensure proper table formatting** and alphabetical/sorted ordering.
 5. 🚀 **Submit a Pull Request** with a descriptive summary of your additions.
 
